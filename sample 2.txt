@@ -1,0 +1,9 @@
+Hi this is a sample text file.
+I am in BDA lab right now
+This is week 2 going on
+The lab is in the afternoon
+It is sunny outside
+I am executing the codes now
+See you Bye!!
+
+
